@@ -1,1 +1,1 @@
-# paintandseek_releases
+# Paint & Seek - Releases
