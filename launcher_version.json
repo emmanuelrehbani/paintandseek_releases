@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "exe_url": "https://github.com/emmanuelrehbani/paintandseek_releases/releases/latest/download/TitanLauncher.exe",
-  "notes": "..."
+  "notes": "Vulkan and OpenGL version"
 }
